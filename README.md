@@ -6,5 +6,8 @@ To download the code and dataset, open your terminal and enter.  <br>
 ```bash 
 git clone https://github.com/thereder/cs-7641.git
 ```
-to run the code, you need to open it in jupyter notebook or jupyter lab then click on "Run All Cells".
-
+To run the code, you need to open it in jupyter notebook or jupyter lab then click on "Run All Cells".
+You can type in below command in terminal to open jupyter lab. 
+```bash
+jupyter lab
+```
