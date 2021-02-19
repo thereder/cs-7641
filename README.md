@@ -4,7 +4,7 @@ Each .ipynb corresponds to one dataset. <br>
 make sure you have pandas, numpy, matplotlib, sklearn installed. <br>
 To download the code and dataset, open your terminal and enter.  <br>
 ```bash 
-git clone xxx
+git clone https://github.com/thereder/cs-7641.git
 ```
 to run the code, you need to open it in jupyter notebook or jupyter lab then click on "Run All Cells".
 
